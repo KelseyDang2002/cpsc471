@@ -1,7 +1,7 @@
 # CPSC 471 Programming Projects
 
 ## Description
-Repository for CPSC 471 Computer Communications Programming Projects
+Repository for CPSC 471 Computer Communications programming projects.
 
 ## Group Members
 1. Kelsey Dang (kdangdo2002@csu.fullerton.edu)
